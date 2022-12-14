@@ -15,7 +15,7 @@ namespace IvonneVegaS3
         public Registro(string usuario)
         {
             InitializeComponent();
-            lblUsuario.Text = usuario;
+            lblUsuario.Text = usuario; 
         }
     }
 }
